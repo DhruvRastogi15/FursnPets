@@ -102,3 +102,26 @@ dist
 
 # TernJS port file
 .tern-port
+android/
+ios/Pods/
+vendor/
+ios/FursNPets.xcodeproj
+
+ios/FursNPetsTests
+ios/build
+ios/.xcode.env
+ios/FursNPets.xcworkspace
+Gemfile
+Gemfile.lock
+ios/FursNPets/Images.xcassets/Contents.json
+ios/FursNPets/Images.xcassets/AppIcon.appiconset/Contents.json
+ios/FursNPets/LaunchScreen.storyboard
+ios/FursNPets/AppDelegate.h
+ios/FursNPets/AppDelegate.mm
+ios/FursNPets/main.m
+babel.config.js
+app.json
+index.js
+android/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_0/graph.bin
+# tsconfig.json
+metro.config.js
